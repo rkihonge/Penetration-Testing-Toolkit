@@ -1,3 +1,5 @@
+Hello welcome to my repo. This is just but a simple Penetretration testing toolkit
+
 Key components include:
 
 Port Scanner – scans open ports (like a mini Nmap).
@@ -11,9 +13,3 @@ What It Does
 Automates basic reconnaissance and scanning tasks.
 Helps demonstrate security testing concepts.
 Provides a hands-on tool to test your own lab environment.
-
-How It Helps
-
-Shows recruiters/employers you can build practical security tools.
-Builds your GitHub portfolio with applied cybersecurity skills.
-Can be expanded later into a full red-team toolkit.
