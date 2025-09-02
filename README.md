@@ -8,9 +8,3 @@ It contains basic scripts for scanning, vulnerability checks, password testing, 
 - **Vulnerability Checker**: Identifies weak headers and outdated services.
 - **Password Strength Tester**: Evaluates password strength based on rules.
 - **Report Generator**: Saves results into a report file.
-
-## Usage
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/pen-testing-toolkit.git
-   cd pen-testing-toolkit
