@@ -1,15 +1,16 @@
-Hello welcome to my repo. This is just but a simple Penetretration testing toolkit
+# Simple Penetration Testing Toolkit
 
-Key components include:
+This is a lightweight penetration testing toolkit for educational purposes.  
+It contains basic scripts for scanning, vulnerability checks, password testing, and report generation.
 
-Port Scanner – scans open ports (like a mini Nmap).
-Basic Vulnerability Checker – checks for common issues (weak headers, open ports, outdated banners).
-Password Strength Tester – checks if passwords follow strong policy rules.
-Directory Brute Forcer (optional) – attempts to discover hidden directories (like Gobuster).
-Report Generator – outputs findings into a simple .txt or .json report.
+## Features
+- **Port Scanner**: Checks for open ports on a target host.
+- **Vulnerability Checker**: Identifies weak headers and outdated services.
+- **Password Strength Tester**: Evaluates password strength based on rules.
+- **Report Generator**: Saves results into a report file.
 
-What It Does
-
-Automates basic reconnaissance and scanning tasks.
-Helps demonstrate security testing concepts.
-Provides a hands-on tool to test your own lab environment.
+## Usage
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/pen-testing-toolkit.git
+   cd pen-testing-toolkit
