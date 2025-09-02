@@ -1,7 +1,7 @@
 # Simple Penetration Testing Toolkit
 
 This is a lightweight penetration testing toolkit for educational purposes.  
-It contains basic scripts for scanning, vulnerability checks, password testing, and report generation.
+It contains basic scripts for scanning, vulnerability checks, password testing and report generation.
 
 ## Features
 - **Port Scanner**: Checks for open ports on a target host.
