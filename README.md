@@ -13,7 +13,7 @@ It contains basic scripts for scanning, vulnerability checks, password testing a
 pip install -r requirements.txt
 
 **Tools for running on Bash**
-python port_scanner.py
-python vuln_checker.py
-python password_tester.py
-python report_generator.py
+- python port_scanner.py
+- python vuln_checker.py
+- python password_tester.py
+- python report_generator.py
